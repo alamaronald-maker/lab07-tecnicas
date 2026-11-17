@@ -1,3 +1,4 @@
+
 # lab07-tecnicas
 
 ## Bitácora de técnicas avanzadas de prompting
@@ -17,9 +18,10 @@ Este repositorio contiene el desarrollo de los ejercicios del Laboratorio 07, ap
 - Ejercicio 6: Prompt estructurado y autocrítica.
 - Ejercicio 7: Publicación de la bitácora en GitHub.
 
-### Bitácora
+### Documentos del laboratorio
 
-[Ver bitácora completa](prompts/BITACORA.md)
+- [Ver bitácora completa](prompts/BITACORA.md)
+- [Ver tarea: Mi prompt avanzado](prompts/TAREA.md)
 
 ### Herramienta utilizada
 
